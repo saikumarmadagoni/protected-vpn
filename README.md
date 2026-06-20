@@ -180,6 +180,13 @@ journalctl -u openvpn-auth-oauth2 -f
 
 ---
 
+References : 
+
+<img width="2972" height="1502" alt="image" src="https://github.com/user-attachments/assets/21ea6265-a9fc-4d77-9a0e-722b3dd99867" />
+
+
+
+
 ## Author
 
 Sai Goud
