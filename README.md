@@ -183,8 +183,8 @@ journalctl -u openvpn-auth-oauth2 -f
 References : 
 
 <img width="2972" height="1502" alt="image" src="https://github.com/user-attachments/assets/21ea6265-a9fc-4d77-9a0e-722b3dd99867" />
-
-
+<img width="2844" height="1644" alt="image" src="https://github.com/user-attachments/assets/e6106c55-617b-4fca-ae52-6747512b0059" />
+<img width="2536" height="1588" alt="image" src="https://github.com/user-attachments/assets/ed412588-8328-483d-97d9-a12cc4899869" />
 
 
 ## Author
